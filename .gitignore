@@ -17,5 +17,4 @@
 /tmp
 Gemfile.lock
 config/database.yml
-config.secrets.yml
-
+config/secrets.yml
